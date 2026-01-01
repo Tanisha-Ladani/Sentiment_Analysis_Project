@@ -53,6 +53,6 @@ The goal is to analyze customer opinions and automatically determine sentiment f
 ---
 
 ## 👤 Author & Contact
-👩‍💻 **Tanu Patel**  
+👩‍💻 **Tanisha Patel**  
 📧 Email: tanishaladani08@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/tanisha-ladani-426630304/ 
